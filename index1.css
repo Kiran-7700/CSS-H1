@@ -4,6 +4,7 @@ h1{
 h2{
     color: red;
     font-style: italic;
+   
 }
 .second{
     text-decoration: line-through;
@@ -29,4 +30,5 @@ a{
     background-color: yellow;
     color: red;
     font-style: italic;
+    text-decoration: none;
 }
